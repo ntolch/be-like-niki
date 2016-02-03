@@ -1,0 +1,21 @@
+Male:
+
+#{person} doesn't mansplain how to do something he's noticed a lot of men know how to do.
+#{person} knows that just because he hasn't noticed any women express expertise on a subject, doesn't mean most women don't know anything about it.
+
+
+Female:
+
+#{person} sometimes notices how good looking other people are.
+#{person} knows that she is just as good looking as other people.
+
+#{person} doesn't call other people stupid, fat or ugly.
+#{person} doesn't call herself those things, either.
+
+
+Any:
+
+#{person} notices he/she feels angry whenever someone believes something wrong.
+#{person} reaches into his/her emotional library and borrows trades anger for curiousity.
+#{person} reduces stress, learns something interesting about the person, and doesn't strangle them.
+
